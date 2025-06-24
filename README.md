@@ -15,13 +15,16 @@ We have weekly sales data available for various Walmart outlets. We will use sta
 - **Store 14 registered the highest single-week sales ever**, during the week of **2010-12-24**, coinciding with the Christmas holidays.
 - **Store 20 leads in total sales**, crossing **$30 million**, followed closely by **Store 4**.
 - **Store 33 consistently underperforms**, recording the **lowest single-week sales**, **lowest total sales (under $5M)**, and occupying **all bottom 20 weekly sales spots**.
+  
   ![Screenshot 2025-06-24 172015](https://github.com/user-attachments/assets/d6d37b06-c898-46e2-bada-a0998c72d4b2)
 
 - The **top 20 weekly sales** are recorded in **November and December**, with **13 out of 20** specifically in **December (23rd and 24th)**.
-- ![Screenshot 2025-06-24 172351](https://github.com/user-attachments/assets/187d5535-a022-4559-ae3a-9769f9e3644d)
+
+ ![Screenshot 2025-06-24 172351](https://github.com/user-attachments/assets/187d5535-a022-4559-ae3a-9769f9e3644d)
 
 - **Sales spike during holidays**, driven by **Christmas, Black Friday, and Thanksgiving** promotions.
 - **Monthly sales patterns** show a **steady rise in November** and a **peak in December**, followed by a sharp drop in early months like February and March.
+
   ![Screenshot 2025-06-24 172633](https://github.com/user-attachments/assets/2cac6eea-6bf8-4049-9367-39a532105561)
 
 - **Holiday weeks (Holiday_Flag = 1)** consistently correlate with significantly higher sales volumes.
